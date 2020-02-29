@@ -185,6 +185,12 @@
 
     - [LLDB](http://lldb.llvm.org/index.html)
     
+* 测试
+
+    - BDD
+    - TDD
+    - XCTest
+    
 * 包管理
 
     - CocoaPods
@@ -198,11 +204,36 @@
     - App Store
     - App Store Connect
     
-* 测试
+* 监控
 
-    - BDD
-    - TDD
-    - XCTest
+    - 卡顿监控
+    - 内存监控
+    - 硬件监控
+    - 网络监控
+    - 崩溃监控
+    - 日志监控
+    
+- 崩溃
+
+    - Watch Dog
+    - [KSCrash](https://github.com/kstenerud/KSCrash)
+    - [bugly](https://bugly.qq.com/v2/)
+
+- 日志
+
+    - [XLog](https://github.com/Tencent/mars)
+    - 无侵入埋点
+    - [Logan](https://github.com/Meituan-Dianping/Logan)
+    - [SwiftyBeaver](https://woailvkai.oschina.io/articles/045.html)
+
+- 动态化
+
+    - [JSPatch](http://www.jspatch.com)
+    > 不能上架应用市场
+    - [Aspects](https://github.com/steipete/Aspects)
+    > 可以通过审核
+    - [React Native](https://reactnative.cn/docs/next/getting-started/)
+    - [Weex](https://esmeetu.gitbooks.io/weex/content/advanced/integrate-to-ios.html)
     
 * 安全
 
