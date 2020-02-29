@@ -13,7 +13,7 @@
     - [汇编](http://c.biancheng.net/asm/)
     - [汇编入门](http://www.ruanyifeng.com/blog/2018/01/assembly-language-primer.html)
 
-* 算法
+* [算法](https://www.cxyxiaowu.com/leetcodeanimation)
 
     - 排序算法
     - 链表
@@ -26,7 +26,7 @@
     - 贪心算法
     - 枚举算法
 
-* 数据结构
+* [数据结构](https://www.cxyxiaowu.com/algo)
 
     - Stack（栈）
     - Array（数组）
@@ -37,6 +37,8 @@
     - Linked List（链表）
     - Queue（队列）
     - Union Find（并查集）
+    
+![数据结构与算法]()
 
 * 内存
 
@@ -68,9 +70,9 @@
 * 数据库
 
     - SQLite
-    - Core Data
-    - Realm
-    - FMDB
+    - [Core Data](https://developer.apple.com/documentation/coredata)
+    - [Realm](https://docs.realm.io/sync/)
+    - [FMDB](https://github.com/ccgus/fmdb)
     
 * 网络
 
@@ -80,76 +82,80 @@
     - HTTP协议
     - NetworkExtension
     - 网络安全
-    - Charles
+    - [Charles](https://www.charlesproxy.com)
     - NSURLSession
-    - Alamofire
+    - [Alamofire](https://github.com/Alamofire/Alamofire)
+    
+* 证书
+
+    - [开发者账户](https://help.apple.com/developer-account/#/dev3e8818774)
 
 ## iOS基础
 
 * UI（控件）
 
-    - UILabel
-    - UIButton
-    - UISegmentedControl
-    - UITextField
-    - UISlider
-    - UISwitch
-    - UIActivityIndicatorView
-    - UIProgressView
-    - UIPageControl
-    - UIStepper
-    - UIStackView
-    - UITableView
-    - UITableViewCell
-    - UIImageView
-    - UICollectionView
-    - UICollectionViewCell
-    - UICollectionReusableView
-    - UITextView
-    - UIScrollView
-    - UIDatePicker
-    - UIPickerView
-    - UIVisualEffectView
-    - MKMapView
-    - MTKView
-    - GLKView
-    - SCNView
-    - SKView
-    - ARSCNView
-    - ARSKView
-    - WKWebView
-    - ARView
-    - UIView
-    - UINavigationBar
-    - UINavigationItem
-    - UIToolbar
-    - UIBarButtonItem
-    - UITabBar
-    - UISearchBar
+    - [UILabel](https://developer.apple.com/documentation/uikit/uilabel)
+    - [UIButton](https://developer.apple.com/documentation/uikit/uibutton)
+    - [UISegmentedControl](https://developer.apple.com/documentation/uikit/uisegmentedcontrol)
+    - [UITextField](https://developer.apple.com/documentation/uikit/uitextfield)
+    - [UISlider](https://developer.apple.com/documentation/uikit/uislider)
+    - [UISwitch](https://developer.apple.com/documentation/uikit/uiswitch)
+    - [UIActivityIndicatorView](https://developer.apple.com/documentation/uikit/uiactivityindicatorview)
+    - [UIProgressView](https://developer.apple.com/documentation/uikit/uiprogressview)
+    - [UIPageControl](https://developer.apple.com/documentation/uikit/uipagecontrol)
+    - [UIStepper](https://developer.apple.com/documentation/uikit/uistepper)
+    - [UIStackView](https://developer.apple.com/documentation/uikit/uistackview)
+    - [UITableView](https://developer.apple.com/documentation/uikit/views_and_controls/table_views)
+    - [UITableViewCell](https://developer.apple.com/documentation/uikit/uitableviewcell)
+    - [UIImageView](https://developer.apple.com/documentation/uikit/uiimageview)
+    - [UICollectionView](https://developer.apple.com/documentation/uikit/uicollectionview)
+    - [UICollectionViewCell](https://developer.apple.com/documentation/uikit/uicollectionviewcell)
+    - [UICollectionReusableView](https://developer.apple.com/documentation/uikit/uicollectionreusableview)
+    - [UITextView](https://developer.apple.com/documentation/uikit/uitextview)
+    - [UIScrollView](https://developer.apple.com/documentation/uikit/uiscrollview)
+    - [UIDatePicker](https://developer.apple.com/documentation/uikit/uidatepicker)
+    - [UIPickerView](https://developer.apple.com/documentation/uikit/uipickerview)
+    - [UIVisualEffectView](https://developer.apple.com/documentation/uikit/uivisualeffectview)
+    - [MKMapView](https://developer.apple.com/documentation/mapkit/mkmapview)
+    - [MTKView](https://developer.apple.com/documentation/metalkit/mtkview)
+    - [GLKView](https://developer.apple.com/documentation/glkit/glkview)
+    - [SCNView](https://developer.apple.com/documentation/scenekit/scnview)
+    - [SKView](https://developer.apple.com/documentation/spritekit/skview)
+    - [ARSCNView](https://developer.apple.com/documentation/arkit/arscnview)
+    - [ARSKView](https://developer.apple.com/documentation/arkit/arskview)
+    - [WKWebView](https://developer.apple.com/documentation/webkit/wkwebview)
+    - [ARView](https://developer.apple.com/documentation/realitykit/arview)
+    - [UIView](https://developer.apple.com/documentation/uikit/uiview)
+    - [UINavigationBar](https://developer.apple.com/documentation/uikit/uinavigationbar)
+    - [UINavigationItem](https://developer.apple.com/documentation/uikit/uinavigationitem)
+    - [UIToolbar](https://developer.apple.com/documentation/uikit/uitoolbar)
+    - [UIBarButtonItem](https://developer.apple.com/documentation/uikit/uibarbuttonitem)
+    - [UITabBar](https://developer.apple.com/documentation/uikit/uitabbar)
+    - [UISearchBar](https://developer.apple.com/documentation/uikit/uisearchbar)
     
 * Controller（控制器）
 
-    - UIViewController
-    - UINavigationController
-    - UITableViewController
-    - UICollectionViewController
-    - UITabBarController
-    - UISplitViewController
-    - UIPageViewController
-    - UIHostingController
-    - GLKViewController
-    - AVPlayerViewController
+    - [UIViewController](https://developer.apple.com/documentation/uikit/uiviewcontroller)
+    - [UINavigationController](https://developer.apple.com/documentation/uikit/uinavigationcontroller)
+    - [UITableViewController](https://developer.apple.com/documentation/uikit/uitableviewcontroller)
+    - [UICollectionViewController](https://developer.apple.com/documentation/uikit/uicollectionviewcontroller)
+    - [UITabBarController](https://developer.apple.com/documentation/uikit/uitabbarcontroller)
+    - [UISplitViewController](https://developer.apple.com/documentation/uikit/uisplitviewcontroller)
+    - [UIPageViewController](https://developer.apple.com/documentation/uikit/uipageviewcontroller)
+    - [UIHostingController](https://developer.apple.com/documentation/swiftui/uihostingcontroller)
+    - [GLKViewController](https://developer.apple.com/documentation/glkit/glkviewcontroller)
+    - [AVPlayerViewController](https://developer.apple.com/documentation/avkit/avplayerviewcontroller)
     
 * GestureRecognizer（手势）
 
-    - UITapGestureRecognizer
-    - UIPinchGestureRecognizer
-    - UIRotationGestureRecognizer
-    - UISwipeGestureRecognizer
-    - UIPanGestureRecognizer
-    - UIScreenEdgePanGestureRecognizer
-    - UILongPressGestureRecognizer
-    - UIGestureRecognizer
+    - [UITapGestureRecognizer](https://developer.apple.com/documentation/uikit/uitapgesturerecognizer)
+    - [UIPinchGestureRecognizer](https://developer.apple.com/documentation/uikit/uipinchgesturerecognizer)
+    - [UIRotationGestureRecognizer](https://developer.apple.com/documentation/uikit/uirotationgesturerecognizer)
+    - [UISwipeGestureRecognizer](https://developer.apple.com/documentation/uikit/uiswipegesturerecognizer)
+    - [UIPanGestureRecognizer](https://developer.apple.com/documentation/uikit/uipangesturerecognizer)
+    - [UIScreenEdgePanGestureRecognizer](https://developer.apple.com/documentation/uikit/uiscreenedgepangesturerecognizer)
+    - [UILongPressGestureRecognizer](https://developer.apple.com/documentation/uikit/uilongpressgesturerecognizer)
+    - [UIGestureRecognizer](https://developer.apple.com/documentation/uikit/uigesturerecognizer)
 
 
 * 布局
@@ -157,8 +163,8 @@
     - Frame
     - AutoLayout
     - Visual Format Language,简称VFL
-    - Xib
-    - Storyboard
+    - [Xib](https://developer.apple.com/documentation/uikit/uinib)
+    - [Storyboard](https://developer.apple.com/documentation/uikit/uistoryboard)
     
 * 设计模式
 
@@ -171,15 +177,15 @@
     
 * 代码规范
 
-    - SwiftLint
-    - OCLint
+    - [SwiftLint](https://github.com/LeiHao0/swift-style-guide/blob/master/README_CN.md)
+    - [OCLint](https://github.com/oclint/oclint)
     
 ## 开发工具
 
 * 编译 
     
     - [LLVM](http://llvm.org)
-    - Clang
+    - [Clang](http://clang.llvm.org/doxygen/)
     
 * 调试
 
@@ -189,13 +195,13 @@
 
     - BDD
     - TDD
-    - XCTest
+    - [XCTest](https://developer.apple.com/documentation/xctest)
     
 * 包管理
 
-    - CocoaPods
+    - [CocoaPods](https://github.com/CocoaPods/CocoaPods)
     - Swift Package Manager
-    - Carthage
+    - [Carthage](https://github.com/Carthage/Carthage)
     
 * 持续化交付
 
