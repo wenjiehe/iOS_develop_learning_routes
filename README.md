@@ -182,6 +182,10 @@
     
 ## 开发工具
 
+* IDE
+
+    - Xcode
+
 * 编译 
     
     - [LLVM](http://llvm.org)
