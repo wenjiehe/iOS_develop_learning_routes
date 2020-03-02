@@ -201,6 +201,39 @@
     - TDD
     - [XCTest](https://developer.apple.com/documentation/xctest)
     
+* 优化
+
+    - 静态分析
+    > Command + shift + B
+    - Energy Log
+    > 耗电检测工具
+    - Core Animation
+    > 离屏渲染，图层混合等
+    - Activity Monitor
+    > 活动监视器:显示器处理的CPU、内存和网络使用情况统计
+    - Allocations
+    > 内存分配:检测内存使用/分配情况
+    - Core Data 
+    > 只适用于Mac OS X
+    > 添加核心数据取回、核心数据缓存错过和核心数据存储仪器到你的文档。使用这个模板去监视Core Data应用程序需数据存储的相互作用。
+    - Leaks
+    > 内存泄露检测工具
+    - File Activity
+    > 监视文件活动、读/写、文件属性，包括权限和所有者的更改。
+    - Zombies
+    > 僵尸对象监测工具
+    - Time Profiler
+    > CPU分析工具分析代码的执行时间
+    - Network
+    > 跟踪TCP/IP和UDP/IP连接
+    
+* ipa包上传
+
+    - Application Loader 
+    > 脚本打包:xcodebuild
+    - Transporter
+    > 脚本打包:iTMSTransporter
+    
 * 包管理
 
     - [CocoaPods](https://github.com/CocoaPods/CocoaPods)
