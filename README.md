@@ -284,6 +284,8 @@
     - CryptoSwift
     - KeychainAccess
     - 混淆加固
+    - 防止反编译
+    - 防止抓包篡改数据
     
 * 逆向
 
@@ -537,3 +539,4 @@
 - [iOS 安全](https://wizardforcel.gitbooks.io/ios-sec-wiki/content/index.html)
 - [算法怎么学](https://www.zhihu.com/question/25693637)
 - [apple-documentation](https://developer.apple.com/documentation/)
+- [apple-github](https://github.com/apple)
