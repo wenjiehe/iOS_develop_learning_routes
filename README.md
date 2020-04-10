@@ -293,6 +293,10 @@
     - 文件系统查看工具
     - 数据库查看工具
     - 网络分析工具
+    - 静态分析可执行文件工具
+    > Hopper Disassembler是一个可以帮助我们静态分析可执行文件的工具。能够将Mach-O文件的机器语言代码反编译成汇编代码、OC伪代码或者Swift伪代码
+    > [官网](https://www.hopperapp.com)
+    > [Hopper Disassembler 4.0.8](https://github.com/lerpo/Revel)
     - 逆向程序开发工具
     - 反汇编工具
     - 调试器
