@@ -562,6 +562,33 @@
 5. MAVB
 6. TEA
 
+## 大厂团队github
+
+- [唯品会](https://github.com/vipshop)
+- [Apple](https://github.com/apple)
+- [阿里](https://github.com/alibaba)
+- [美丽联合](https://github.com/meili)
+- [Facebook](https://github.com/facebook)
+- [Google](https://github.com/google)
+- [携程](https://github.com/ctripcorp)
+- [腾讯](https://github.com/tencent)
+- [百度](https://github.com/baidu)
+- [美团点评](https://github.com/meituan-dianping)
+- [美图](https://github.com/meitu)
+- [滴滴出行](https://github.com/didi)
+- [小米](https://github.com/xiaomi)
+- [知乎](https://github.com/zhihu)
+- [Medium](https://github.com/Medium)
+- [豆瓣](https://github.com/douban)
+- [饿了么](https://github.com/eleme)
+- [B站](https://github.com/Bilibili)
+- [Uber](https://github.com/uber)
+- [Airbnb](https://github.com/airbnb)
+- [Twitter](https://github.com/twitter)
+- [字节跳动](https://github.com/bytedance)
+- [Netflix](https://github.com/Netflix)
+
+
 ## 参考资料
 
 - [iOS 安全](https://wizardforcel.gitbooks.io/ios-sec-wiki/content/index.html)
